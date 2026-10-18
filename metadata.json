@@ -1,0 +1,6 @@
+{
+  "name": "The Royal Kitchen (TRK)",
+  "description": "Authentic homemade Pakistani food delivered fresh across Karachi. Ghar ka khana ghar tak. Daily fresh menu, Karahi, Biryani, On-order specials & Patient meals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
